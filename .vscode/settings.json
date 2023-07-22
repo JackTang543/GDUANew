@@ -1,6 +1,7 @@
 {
     "files.associations": {
         "arduino.h": "c",
-        "freertos.h": "c"
+        "freertos.h": "c",
+        "func.h": "c"
     }
 }
