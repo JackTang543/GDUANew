@@ -2,6 +2,8 @@
     "files.associations": {
         "arduino.h": "c",
         "freertos.h": "c",
-        "func.h": "c"
-    }
+        "func.h": "c",
+        "functional": "cpp"
+    },
+    "commentTranslate.source": "Google"
 }
